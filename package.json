@@ -15,7 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "envs": "^0.1.6",
-    "nedb": "^0.11.1",
+    "mongodb": "^1.4.15",
+    "mongoose": "^3.8.16",
     "simple-stack-common": "^0.2.3",
     "startup": "^0.3.0",
     "uuid": "^1.4.2"
