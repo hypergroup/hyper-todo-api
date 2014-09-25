@@ -1,0 +1,23 @@
+{
+  "name": "hyper-todo-api",
+  "version": "0.1.0",
+  "description": "TODO hyper+json api",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "hyper",
+    "json",
+    "todo"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "envs": "^0.1.6",
+    "nedb": "^0.11.1",
+    "simple-stack-common": "^0.2.3",
+    "startup": "^0.3.0",
+    "uuid": "^1.4.2"
+  }
+}
